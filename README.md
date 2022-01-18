@@ -1,7 +1,7 @@
 # FavDish
 Simple app for food recipe
 
-Android Native app using Kotlin,
+Android Native app using Kotlin,\n
 View binding,
 Glide,
 Room Database,
