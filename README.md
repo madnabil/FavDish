@@ -1,5 +1,5 @@
 # **FavDish**
-Simple app for food recipe
+Simple app for food recipes.
 
 Android Native app using Kotlin,
 - View binding,
